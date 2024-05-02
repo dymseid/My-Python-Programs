@@ -1,0 +1,1 @@
+pelineTool install tensorflow[and-cuda]
